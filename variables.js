@@ -10,10 +10,10 @@ const name = "Tahmina"
 console.log(name);
 
 
-
-// ==========================================
 // 2. Declareer een variabele om de kleur van jouw ogen in op te slaan en zet de waarde erin. De variabele hoeft niet meer overschreven hoeft te worden.
-// ==========================================
+const eyeColor = "Brown";
+console.log(eyeColor);
+
 
 
 // ==========================================
